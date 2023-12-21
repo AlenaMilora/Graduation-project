@@ -7,7 +7,7 @@
 •	фреймворк pytest необходим для тестирования кода на Python;
 
 К выполненному заданию прикреплены:
-1.	Ссылка на Google-таблицу с чек-листом, тест-кейсами: https://drive.google.com/drive/folders/1vDdiS8x1gF8TvK5fPssyenwCJa3NY0a1?hl=ru
+1.	Ссылка на Google диск с чек-листом, тест-кейсами: https://drive.google.com/drive/folders/1vDdiS8x1gF8TvK5fPssyenwCJa3NY0a1?hl=ru
 2.	Набор автотестов на GitHub.
 3.	Описание оформленных дефектов. 
 
